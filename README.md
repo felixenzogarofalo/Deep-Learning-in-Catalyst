@@ -6,7 +6,7 @@ For the actor-critic agent is used a Convolutional Neural Network architecture b
 
 The algorithm is implemented in Enigma Catalyst using Poloniex Exchange data. Catalyst is based in Zipline which is the base code for Quantopian platform. This make easy extrapolate the algorithm for these recognized platforms.
 
-Before executing the algorithm you will need to install Catalyst in first place. You can use the [Catalyst instalation instruccions](https://enigma.co/catalyst/install.html).
+Before executing the algorithm you will need to install Catalyst in first place. You can use the [Catalyst installation instruccions](https://enigma.co/catalyst/install.html).
 
 References:
 - [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522), (Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid)
