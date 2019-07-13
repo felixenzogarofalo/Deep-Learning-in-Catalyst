@@ -10,6 +10,6 @@ Before executing the algorithm you will need to install Catalyst in first place.
 
 References:
 - [Practical Deep Reinforcement Learning Approach for Stock Trading](https://arxiv.org/abs/1811.07522), (Zhuoran Xiong, Xiao-Yang Liu, Shan Zhong, Hongyang Yang, Anwar Walid)
-- Deep Reinforcement Learning for Pair Trading Using Actor Critic], (Yichen Shen, Yiding Zhao)
+- Deep Reinforcement Learning for Pair Trading Using Actor Critic, (Yichen Shen, Yiding Zhao)
 - [A Deep Reinforcement Learning Framework for the Finantial Portfolio Management Problem](https://arxiv.org/abs/1706.10059), (Zhengyao Jiang, Dixing Xyu, Jinjun Liang)
 - [Deep Deterministic Policy Gradient in TensorFlow] (https://pemami4911.github.io/blog/2016/08/21/ddpg-rl.html), (Patrick Emami)
